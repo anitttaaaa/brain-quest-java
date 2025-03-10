@@ -1,7 +1,6 @@
 # BrainQuestJava
 
-BrainQuestJava is a project dedicated to learning and practicing Java programming. It serves as a structured and systematic tool for continuous skill development through coding challenges and exercises.
-
+BrainQuestJava is a project dedicated to learning and practicing Java programming. It is a tool that supports continuous and systematic skill development through coding challenges and exercises.
 ## Project Overview
 
 This repository contains a collection of Java tasks inspired by programming platforms and learning resources. Each task includes:
