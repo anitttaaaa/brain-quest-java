@@ -7,10 +7,16 @@ public class Task1 {
 
     public static void task1() {
         Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a number from 1 to 10:");
         int N=sc.nextInt();
 
-        for(int i = 1; i<=10; i++) {
-            System.out.println(N+" x "+i+" = "+(N*i));
+        if (N >= 2 && N <= 20) {
+
+            for (int i = 1; i <= 10; i++) {
+                System.out.println(N + " x " + i + " = " + (N * i));
+            }
+        } else{
+            System.out.println("Wrong number. ");
         }
     }
 }
@@ -20,19 +26,18 @@ public class Task1 {
     The goal is to print the first 10 multiples of a given integer.
 
     Task:
-    Given an integer `n`, print its first 10 multiples. Each multiple (where `i` is the multiplier) should be printed on a new line in the following format:
+    Given an integer N, print its first 10 multiples. Each multiple N x i (where 1<= i <= 10) should be printed on a new line in the form:
     N x i = result
-    where `N` is the input number and `i` is the number from 1 to 10.
 
     Input Format:
-    - A single integer `n` will be provided as input.
+    - A single integer N.
 
     Constraints:
-    - The integer will be a positive integer.
+    2 <= N <= 20
 
     Output Format:
-    - The program should print 10 lines of output. Each line will display the result of multiplying `n` by `i` (from 1 to 10). The format should be:
-      N x i = result
+    - Print 10 lines of output; each line i (where 1<= i <= 10) contains the result of N x i in the form:
+     N x i = result
 
     Sample Input:
     2
@@ -48,11 +53,6 @@ public class Task1 {
     2 x 8 = 16
     2 x 9 = 18
     2 x 10 = 20
-
-    Explanation:
-    - The input number is `2`.
-    - We multiply `2` by numbers from 1 to 10.
-    - For each multiplication, the result is printed in the format: `2 x i = result`.
 */
 
 
