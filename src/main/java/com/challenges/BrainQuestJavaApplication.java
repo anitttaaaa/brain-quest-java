@@ -1,6 +1,7 @@
 package com.challenges;
 
 import com.challenges.loops.Task1;
+import com.challenges.loops.Task2;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -12,7 +13,8 @@ public class BrainQuestJavaApplication {
 		SpringApplication.run(BrainQuestJavaApplication.class, args);
 		System.out.println("Hello World");
 
-		Task1.task1();
+//		Task1.task1();
+		Task2.task2();
 
 
 	}
