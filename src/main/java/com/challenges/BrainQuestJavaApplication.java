@@ -2,6 +2,7 @@ package com.challenges;
 
 import com.challenges.arrays.Task3;
 import com.challenges.arrays.Task4;
+import com.challenges.arrays.Task5;
 import com.challenges.loops.Task1;
 import com.challenges.loops.Task2;
 import org.springframework.boot.SpringApplication;
@@ -18,7 +19,8 @@ public class BrainQuestJavaApplication {
 //		Task1.task1();
 //		Task2.task2();
 //		Task3.task3();
-		Task4.task4();
+//		Task4.task4();
+//		Task5.task5();
 
 
 	}
