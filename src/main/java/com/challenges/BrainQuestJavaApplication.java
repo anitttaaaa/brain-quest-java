@@ -8,6 +8,7 @@ import com.challenges.lists.Task7;
 import com.challenges.loops.Task1;
 import com.challenges.loops.Task2;
 import com.challenges.map.Task8;
+import com.challenges.set.Task9;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -26,7 +27,8 @@ public class BrainQuestJavaApplication {
 //		Task5.task5();
 //		Task6.task6();
 //		Task7.task7();
-		Task8.task8();
+//		Task8.task8();
+		Task9.task9();
 
 
 	}
