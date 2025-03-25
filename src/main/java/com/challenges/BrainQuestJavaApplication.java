@@ -3,6 +3,7 @@ package com.challenges;
 import com.challenges.arrays.Task3;
 import com.challenges.arrays.Task4;
 import com.challenges.arrays.Task5;
+import com.challenges.ifElse.Task10;
 import com.challenges.lists.Task6;
 import com.challenges.lists.Task7;
 import com.challenges.loops.Task1;
@@ -28,7 +29,8 @@ public class BrainQuestJavaApplication {
 //		Task6.task6();
 //		Task7.task7();
 //		Task8.task8();
-		Task9.task9();
+//		Task9.task9();
+		Task10.task10();
 
 
 	}
