@@ -33,8 +33,8 @@ public class BrainQuestJavaApplication {
 //		Task8.task8();
 //		Task9.task9();
 //		Task10.task10();
-		Task11.task11();
-//		Task12.task12();
+//		Task11.task11();
+		Task12.task12();
 
 	}
 
