@@ -4,6 +4,8 @@ import com.challenges.arrays.Task3;
 import com.challenges.arrays.Task4;
 import com.challenges.arrays.Task5;
 import com.challenges.ifElse.Task10;
+import com.challenges.inheritance.Task13;
+import com.challenges.inheritance.Task14;
 import com.challenges.lists.Task6;
 import com.challenges.lists.Task7;
 import com.challenges.loops.Task1;
@@ -34,7 +36,9 @@ public class BrainQuestJavaApplication {
 //		Task9.task9();
 //		Task10.task10();
 //		Task11.task11();
-		Task12.task12();
+//		Task12.task12();
+//		Task13.task13();
+		Task14.task14();
 
 	}
 
