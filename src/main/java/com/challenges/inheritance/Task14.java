@@ -25,7 +25,11 @@ public class Task14 {
         System.out.println(adder.add(40, 2) + " " + adder.add(10, 3) + " " + adder.add(10, 10));
     }
 }
-/*Write the following code in your editor below:
+/*
+
+        Task: Java Inheritance II
+
+Write the following code in your editor below:
 
 1. A class named Arithmetic with a method named add that takes  integers as parameters and returns an integer denoting their sum.
 2. A class named Adder that inherits from a superclass named Arithmetic.

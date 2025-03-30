@@ -28,6 +28,9 @@ public class Task3 {
     }
 
         /*
+
+        Task: Java 1D Array I
+
         Task Instructions:
 
         An array is a simple data structure used to store a collection of data in a contiguous block of memory.

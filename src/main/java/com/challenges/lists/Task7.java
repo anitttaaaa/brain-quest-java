@@ -52,7 +52,10 @@ public class Task7 {
         sc.close();
     }
 }
-/*For this problem, we have 2 types of queries you can perform on a List:
+/*
+Task: Java List
+
+For this problem, we have 2 types of queries you can perform on a List:
 
 1. Insert y at index x:
 

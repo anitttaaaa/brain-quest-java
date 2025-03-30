@@ -21,6 +21,8 @@ public class Task1 {
     }
 }
     /*
+    Task: Java Loops I
+
     Objective:
     In this challenge, we're going to use loops to help us perform some simple math.
     The goal is to print the first 10 multiples of a given integer.

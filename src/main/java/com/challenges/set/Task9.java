@@ -40,6 +40,9 @@ public class Task9 {
 
 }
 /*
+
+        Task: Java Hashset
+
 In computer science, a set is an abstract data type that can store certain values,
  without any particular order, and no repeated values(Wikipedia).  {1,2,3} is an example of a set,
  but  {1,2,3 is not a set. Today you will learn how to use sets in java by solving this problem.

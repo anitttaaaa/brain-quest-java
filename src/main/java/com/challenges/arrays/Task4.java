@@ -35,6 +35,9 @@ public class Task4 {
     }
 }
 /*
+
+ Task: Java 2D Array I
+
  Task Instructions:
 
 You are given a 6*6  2D array. An hourglass in an array is a portion shaped like this:

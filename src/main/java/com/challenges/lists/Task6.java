@@ -59,6 +59,8 @@ public class Task6 {
     }
 }
 /*
+Task: Java ArrayList
+
 Sometimes it's better to use dynamic size arrays. Java's Arraylist can provide you this feature.
 Try to solve this problem using Arraylist.
 

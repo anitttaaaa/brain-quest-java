@@ -35,6 +35,8 @@ public class Task5 {
     }
 }
 /*
+Task: Java Subarray I
+
 We define the following:
 
 A subarray of an n-element array is an array composed from a contiguous block of the original array's elements.
