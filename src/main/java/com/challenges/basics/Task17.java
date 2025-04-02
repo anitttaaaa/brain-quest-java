@@ -29,6 +29,9 @@ public class Task17 {
 
 }
 /*
+
+    Task: Static Initializer Block
+
 Static initialization blocks are executed when the class is loaded,
 and you can initialize static variables in those blocks.
 

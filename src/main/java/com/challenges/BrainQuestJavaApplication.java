@@ -6,6 +6,7 @@ import com.challenges.arrays.Task5;
 import com.challenges.basics.Task15;
 import com.challenges.basics.Task16;
 import com.challenges.basics.Task17;
+import com.challenges.basics.Task18;
 import com.challenges.ifElse.Task10;
 import com.challenges.inheritance.Task13;
 import com.challenges.inheritance.Task14;
@@ -44,7 +45,8 @@ public class BrainQuestJavaApplication {
 //		Task14.task14();
 //		Task15.task15();
 //		Task16.task16();
-		Task17.task17();
+//		Task17.task17();
+		Task18.task18();
 
 	}
 
